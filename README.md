@@ -10,10 +10,10 @@ Développeur Python en formation chez OpenClassrooms, je me spécialise dans le 
 
 | Projet | Description | Tech utilisées |
 |--------|-------------|----------------|
-| 🧠 SoftDesk - API REST sécurisée | API complète pour une application de gestion de tickets (type Jira) avec permissions, JWT, et DRF | Django REST Framework, JWT, Python |
-| 📚 LITReview | Application sociale pour partager des critiques de livres avec UI personnalisée | Django, Python, HTML, CSS |
-| ♟️ Chess Tournament Manager | Logiciel terminal pour gérer des tournois d’échecs, avec classement et sauvegarde | Python, JSON |
-| 📈 Optimisation d'investissements | Comparaison d’algorithmes glouton vs dynamique pour optimiser des choix d'investissement | Python, Complexité algo |
+| 🧠 SoftDesk - API REST sécurisée (https://github.com/Imed7223/API_backend_softdesk.git)| API complète pour une application de gestion de tickets (type Jira) avec permissions, JWT, et DRF | Django REST Framework, JWT, Python |
+| 📚 LITReview (https://github.com/Imed7223/LITReview_Application.git)| Application sociale pour partager des critiques de livres avec UI personnalisée | Django, Python, HTML, CSS |
+| ♟️ Chess Tournament Manager (https://github.com/Imed7223/Project4_Chess_Tournament_Software.git)| Logiciel terminal pour gérer des tournois d’échecs, avec classement et sauvegarde | Python, JSON |
+| 📈 Optimisation d'investissements (https://github.com/Imed7223/R-solvez-des-probl-mess_en-utilisant-des-algorithmes-en-Python.git)| Comparaison d’algorithmes glouton vs dynamique pour optimiser des choix d'investissement | Python, Complexité algo |
 
 ---
 
@@ -26,4 +26,4 @@ Développeur Python en formation chez OpenClassrooms, je me spécialise dans le 
 ## 📫 Me contacter
 
 - 📧 Email : mihoubiimededdine@mail.com
-- 💼 LinkedIn : votre profil LinkedIn ici
+- 💼 LinkedIn : https://www.linkedin.com/in/imed-eddine-mihoubi-ab1511300/
