@@ -26,4 +26,8 @@ Développeur Python en formation chez OpenClassrooms, je me spécialise dans le 
 ## 📫 Me contacter
 
 - 📧 Email : mihoubiimededdine@mail.com
+<<<<<<< HEAD
 - 💼 LinkedIn : https://www.linkedin.com/in/imed-eddine-mihoubi-ab1511300/
+=======
+- 💼 LinkedIn : [votre profil LinkedIn ici](https://www.linkedin.com/in/imed-eddine-mihoubi-ab1511300/)
+>>>>>>> 9fd1f2b6eab89c0d935d4a9773cf8d43419bfdca
