@@ -1,0 +1,10 @@
+🎯 Objectif professionnel – Imed-eddine MIHOUBI
+
+En tant que développeur Python en reconversion, mon objectif est de rejoindre une équipe en tant que développeur backend Django ou fullstack Django + JavaScript, dans un environnement stimulant (startup ou PME tech).
+
+J’aimerais participer à la création ou l’amélioration d'applications web, en mettant à profit mes compétences en :
+- conception d’APIs REST sécurisées avec Django REST Framework ;
+- développement d’interfaces web responsives en HTML/CSS/JS ;
+- respect des bonnes pratiques de code (tests, clean code, gestion de versions Git).
+
+Je suis mobile autour d’Annecy et Grenoble, ou ouvert au télétravail partiel. Je reste également attentif à des opportunités freelance à moyen terme.
